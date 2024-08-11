@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **html, css, js, mysql**
+- 💬 Ask me about **web**
 
 - 📫 How to reach me **vishwanthd22@gmail.com**
 
